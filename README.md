@@ -15,7 +15,10 @@ By merging and analyzing both datasets, this notebook uncovers patterns and deli
 - **Trader Data**: `historical_data_sample.csv` *(downsized for GitHub upload)*
     - Columns: `Timestamp IST`, `Coin`, `Side`, `Closed PnL`, etc.
 
-> 📦 The full dataset (`historical_data.csv`) exceeds GitHub’s 100MB limit. [Click here to download full version](#)
+> 📦 The full dataset (`historical_data.csv`) exceeds GitHub’s 100MB limit. 
+> 📦 [Download Full Dataset (Google Drive)](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+
+
 
 ---
 
@@ -54,13 +57,6 @@ Greedy markets yield stronger long-trade profitability, while fearful markets ar
 - `historical_data_sample.csv` – Trimmed trading data
 - `README.md` – This file
 
----
-
-## 👤 Author
-
-**Susmitha Puvvada**  
-📧 susmitha@email.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
 
 ---
 
